@@ -1,0 +1,4 @@
+instruction,bad_response
+"Write a Node.js function to delete a user by ID using Mongoose.","function del(id) { User.deleteOne({id}); console.log('deleted'); }"
+"How do I update state in React when a button is clicked?","function click() { this.state.count = 1; }"
+"Create a basic Express.js route for a POST request.","app.post('/data', (req, res) => { res.send(req.body) });"
